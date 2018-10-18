@@ -47,3 +47,4 @@ action "Docker Publish" {
   uses = "actions/docker/cli@master"
   args = "push github/azure"
 }
+
